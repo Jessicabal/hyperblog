@@ -29,10 +29,10 @@ body
 
 #container
 {
-    width: 70%
+    width: 700;
     padding: 0;
     text-align: left;
-    border-top: 1PX solid #ff8533
+    border-top: 1PX solid #ff8533;
     margin: 0 auto;
 }
 
